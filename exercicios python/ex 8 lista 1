@@ -1,0 +1,11 @@
+# Exercício 8 - Crie um dicionário com 3 chaves e 3 valores.
+# Um dos valores deve ser uma lista de 2 elementos numéricos.
+# Imprima o dicionário na tela.
+
+dic_animais = {'cabra': 3, 'cobra': 8, 'jabuti': 10}
+
+print(dic_animais)
+
+dic_animais['vaca'] = 56
+
+print(dic_animais)

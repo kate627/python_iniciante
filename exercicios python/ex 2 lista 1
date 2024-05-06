@@ -1,0 +1,9 @@
+# Exercício 2 - Crie uma lista de 5 objetos e imprima na tela
+
+lista = [1, 2, 3, 4]
+
+print(lista)
+
+lista.append(5)
+
+print(lista)

@@ -1,0 +1,9 @@
+# Exercício 3 - Crie duas strings e concatene as duas em uma terceira string
+
+nome = 'se beber '
+
+seg_nome = 'não dirija.'
+
+sob_nome = nome + seg_nome
+
+print(sob_nome)
